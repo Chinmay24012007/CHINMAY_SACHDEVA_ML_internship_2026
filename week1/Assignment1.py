@@ -1,4 +1,4 @@
-'''#Q1. finding the area of a rectangle
+#Q1. finding the area of a rectangle
 a=int(input("enter the length of the recatngle"));
 b=int(input("enter the breadth of a rectangle"));
 area=a*b;
@@ -36,9 +36,19 @@ a=int(input("enter the first number:"));
 b=int(input("enter the second number:"));
 (a,b)=(b,a);
 print("first number after swapping:",a);
-print("second number after swapping:",b);'''
+print("second number after swapping:",b);
 
 #Q7. student report program taking student details
+name=input("enter the student name:");
+s1=int(input("enter the subject 1 marks:"));
+s2=int(input("enter the subject 2 marks:"));
+s3=int(input("enter the subject 3 marks:"));
+s4=int(input("enter the subject 4 marks:"));
+s5=int(input("enter the subject 5 marks:"));
+total=s1+s2+s3+s4+s5;
+p=(total/500)*100;
+print("total marks =",total);
+print("percentage =",p);
 
 
 
