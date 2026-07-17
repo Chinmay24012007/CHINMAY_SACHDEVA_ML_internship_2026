@@ -1,0 +1,13 @@
+{
+    "timestamp": "2026-07-17_13-34-30",
+    "emotion_summary": "Mixed (mostly Neutral)",
+    "speech_summary": "Clear",
+    "confidence_level": "High",
+    "final_score": 7.5,
+    "feedback": "Improve speak more to give a fuller impression of your communication; ensure your face stays clearly visible to the camera.",
+    "raw_scores": {
+        "overall": 75.0,
+        "emotion_score": 50.0,
+        "speech_score": 100.0
+    }
+}

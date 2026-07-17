@@ -1,0 +1,13 @@
+{
+    "timestamp": "2026-07-14_00-52-02",
+    "emotion_summary": "Mostly Neutral",
+    "speech_summary": "Clear",
+    "confidence_level": "High",
+    "final_score": 9.2,
+    "feedback": "Speak more to give a fuller impression of your communication.",
+    "raw_scores": {
+        "overall": 92.3,
+        "emotion_score": 84.7,
+        "speech_score": 100.0
+    }
+}
