@@ -1,0 +1,12 @@
+{
+    "timestamp": "2026-07-19_14-42-28",
+    "emotion_summary": "Mixed (Happy)",
+    "speech_summary": "Clear",
+    "confidence_level": "High",
+    "final_score": 7.7,
+    "raw_scores": {
+        "overall": 77.2,
+        "emotion_score": 54.5,
+        "speech_score": 100.0
+    }
+}
